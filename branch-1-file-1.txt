@@ -3,3 +3,5 @@ The following tasks have to be achieved:
 1. Pull this branch into the local repository.
 2. Make some changes in the file.
 3. Push this file again to the remote repository branch-1 branch.
+
+<Changes made in branch-1 of local repo>
