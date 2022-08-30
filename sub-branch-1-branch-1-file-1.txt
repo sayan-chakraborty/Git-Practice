@@ -1,0 +1,7 @@
+This file has been created in sub branch 1 of branch 1 in the local repo.
+The following tasks are to be accomplished:
+1. Commit this change and see whether the changes are being reflected in the sub branch.
+2. Ensure that the changes are not being reflected in branch 1
+3. Push these changes to the remote repo.
+4. Make changes to this file in the remote repo.
+5. Pull back these changes from the remote repo to the local repo.
