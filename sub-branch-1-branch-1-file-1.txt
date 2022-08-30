@@ -5,3 +5,5 @@ The following tasks are to be accomplished:
 3. Push these changes to the remote repo.
 4. Make changes to this file in the remote repo.
 5. Pull back these changes from the remote repo to the local repo.
+
+<Changes done in the remote repo>
