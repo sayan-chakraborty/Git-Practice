@@ -3,7 +3,13 @@ The following tasks will be performed on this file:
 1. Local Repository will pull this from remote remote repo.
 2. Some changes will be performed on this file in the local repo.
 3. The changes will then again be pushed to the remote repo.
+<<<<<<< HEAD
 
 <This change has been made in the local repo>
 <These changes were made in sub-branch-1-branch-2>
 <This change has been done in main branch>
+||||||| f97c41e
+=======
+
+<Experiment-1 Conducted>
+>>>>>>> experiment-1
