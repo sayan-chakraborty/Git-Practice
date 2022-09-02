@@ -1,0 +1,9 @@
+This file has been created in sub-branch-1 of branch-2.
+The following tasks are to be achieved:
+1. Commit this file inside the remote repo.
+2. See the network graph from insights.
+3. Pull the changes in the local repo
+4. Make changes in this file in the local repo.
+5. Push those changes to the remote repo.
+
+<Changes made in local repo>
